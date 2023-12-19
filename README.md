@@ -2,7 +2,7 @@
 
 ## HELLO!
 
-Highly motivated and skilled Junior Node.js Developer with expertise in various technologies. Proficient in Git, JavaScript, and TypeScript, I possess a strong foundation in Node.js development, building robust server-side applications. My experience includes working with popular frameworks like Express and Fastify to create efficient and scalable APIs.
+Highly motivated and skilled Node.js Developer with expertise in various technologies. Proficient in Git, JavaScript, and TypeScript, I possess a strong foundation in Node.js development, building robust server-side applications. My experience includes working with popular frameworks like Express and Fastify to create efficient and scalable APIs.
 
 Additionally, I have hands-on knowledge of working with databases, specifically PostgreSQL, and I am familiar with ORMs like Sequelize and TypeORM, enabling me to handle data storage and retrieval effectively. Furthermore, I have some experience with Angular, allowing me to contribute to frontend development when needed.
 
